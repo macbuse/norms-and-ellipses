@@ -12,6 +12,11 @@ distances to the focii f1, f2 is a fixed number R > 0.
 A **hyperbola**  is the set of points in the plane such that the difference of the
 distances to the focii f1, f2 is a fixed number R.
 
+##Dependencies
+
+Python 2.6 and Numpy
+
 
 A family of generalised ellipses with the same focii:
 ![pic](https://github.com/macbuse/norms-and-ellipses/blob/master/ellipses.png)
+
