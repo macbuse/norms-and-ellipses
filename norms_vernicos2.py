@@ -86,7 +86,7 @@ def draw(L, col = '#eeefff'):
     plt.plot(xs,ys, color = col)
     
 #instantiate the norm object
-#mnorm is global to some of the  functions above
+#mnorm is global to vert_vectors
 
 mnorm = Norm(mk_vectors() )
 
